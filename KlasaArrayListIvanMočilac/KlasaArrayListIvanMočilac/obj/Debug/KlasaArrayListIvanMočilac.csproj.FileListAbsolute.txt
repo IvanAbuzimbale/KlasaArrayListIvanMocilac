@@ -1,0 +1,10 @@
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\bin\Debug\KlasaArrayListIvanMočilac.exe.config
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\bin\Debug\KlasaArrayListIvanMočilac.exe
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\bin\Debug\KlasaArrayListIvanMočilac.pdb
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.Form1.resources
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.Properties.Resources.resources
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.csproj.GenerateResource.cache
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.exe
+C:\Users\ivanm\source\repos\KlasaArrayListIvanMočilac\KlasaArrayListIvanMočilac\obj\Debug\KlasaArrayListIvanMočilac.pdb
